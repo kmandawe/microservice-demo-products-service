@@ -1,4 +1,4 @@
-package com.kensbunker.estore.productsservice.rest;
+package com.kensbunker.estore.productsservice.command.rest;
 
 import lombok.Data;
 
